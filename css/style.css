@@ -1,0 +1,10 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+@media (max-width: 767px) {
+  .col-sm-12 h5 {
+    max-width: 100% !important;
+    margin-bottom: 2rem;
+  }
+}
